@@ -1,0 +1,9 @@
+packet-types 
+
+1. hello 
+2. database description 
+3. Lsr - link state request
+4. LSU - link state update 
+5. LsAck - Link state Acknowledgement 
+
+
