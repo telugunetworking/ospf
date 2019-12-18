@@ -1,0 +1,10 @@
+1. ospf neighbor establishment
+2. ospf packet types 
+3. ospf states 
+4. ospf areas 
+   a. stub
+   b. totally stubby area
+   c. nssa - not so stubby area 
+   d. t-nssa - totally-nssa 
+5. virtual-tunnel
+6. DR/BDR elections
